@@ -1,4 +1,4 @@
-Deployed: [Quiz](https://react-app-quiz.herokuapp.com/)
+## Deployed: [Quiz](https://react-quiz-smu25.vercel.app/)
 
 # Getting Started with Create React App
 
